@@ -1,0 +1,22 @@
+{
+  "name": "verkefni9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "browser-sync" : "browser-sync start --server --files index.html styles.css scripts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SiggiGunnar/verkefni9.git"
+  },
+  "author": "sth224",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiggiGunnar/verkefni9/issues"
+  },
+  "homepage": "https://github.com/SiggiGunnar/verkefni9#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
